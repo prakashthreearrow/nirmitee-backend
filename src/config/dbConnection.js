@@ -13,9 +13,7 @@ const connect = () => {
 
   const mongooseOptions = {
     useNewUrlParser: true,
-    useUnifiedTopology: true,
-    // tls: true,
-    // sslValidate: false,
+    useUnifiedTopology: true
   };
 
   mongoose.connect(url, mongooseOptions);
