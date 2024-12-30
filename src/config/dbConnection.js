@@ -9,8 +9,6 @@ const connect = () => {
       process.env.MONGO_CONNECTION_STRING
   );
 
-  const pemFilePath = process.env.PEM_FILE_PATH;
-
   const mongooseOptions = {
     useNewUrlParser: true,
     useUnifiedTopology: true
