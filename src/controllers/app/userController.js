@@ -13,7 +13,7 @@ const {
 const { newRegistration, resendOtp, makeRandomOTPNumber, AppName } = require("../../services/Helper");
 const { MAIL_SUBJECT_MESSAGE_REGISTRATION, USER_MODEL, INACTIVE, INTERNAL_SERVER, BAD_REQUEST, SUCCESS, ACTIVE, FAIL, MAIL_SUBJECT_MESSAGE_RESEND_OTP, PROFILE_PIC, ROLE } = require("../../services/Constants");
 const Mailer = require("../../services/Mailer");
-const { base64ImageUpload, mediaUrlForS3, removeOldImage } = require("../../services/S3Bucket");
+const { base64ImageUpload, mediaUrlForS3, removeOldImage } = require("../../services/s3Bucket");
 
 module.exports = {
   /**
