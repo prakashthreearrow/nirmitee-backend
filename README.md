@@ -15,8 +15,9 @@ A dedicated summary page allows doctors to view all upcoming appointments in a l
 The list includes essential details of each appointment, making it convenient for doctors to manage their schedules.
 
 #Technology Stack
-Backend: Node.js with Express.js
-Database: MongoDB (or other relational/non-relational databases as configured)
+*Backend: Node.js with Express.js (version 20.16.0)
+*Database: MongoDB (or other relational/non-relational databases as configured)
+*Email Notifications: Nodemailer for sending email updates and reminders
 
 #Getting Started
 Prerequisites
