@@ -1,6 +1,7 @@
 ﻿# nirmitee-backend
 #Description
-This Node.js application is designed to streamline appointment scheduling and management. It offers an intuitive interface for users to manage their appointments efficiently and provides a summary view for doctors to stay updated on their schedules.
+This Node.js application is designed to streamline appointment scheduling and management. 
+It offers an intuitive interface for users to manage their appointments efficiently and provides a summary view for doctors to stay updated on their schedules.
 
 #Features
 Add Appointments
