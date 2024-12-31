@@ -24,8 +24,8 @@ Node.js installed on your system
 MongoDB or another database instance
 
 #Installation
-*Clone the repository:git clone https://github.com/yourusername/appointment-management.git
-*Navigate to the project directory:cd appointment-management
+*Clone the repository:git clone https://github.com/prakashthreearrow/nirmitee-backend.git
+*Navigate to the project directory:cd nirmitee-backend
 *Install dependencies:npm install
 
 #Running the Application
