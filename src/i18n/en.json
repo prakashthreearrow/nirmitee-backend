@@ -40,5 +40,6 @@
 	"emailNotVerified": "Your email address has not been verified.",
 	"changePasswordValidationOldPasswordRequired": "changePasswordValidationOldPasswordRequired",
 	"passwordChangedSuccessfully.": "Your password has been successfully updated. Please use your new password to log in.",
-	"resendOtpValidationEmailEmpty": "resendOtpValidationEmailEmpty"
+	"resendOtpValidationEmailEmpty": "resendOtpValidationEmailEmpty",
+	"userNameOrEmailNotExist": "userNameOrEmailNotExist"
 }
